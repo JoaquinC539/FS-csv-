@@ -1,8 +1,8 @@
-package com.filepars.demo.Controllers
+package com.filepars.csvpars.Controllers
 
-import com.filepars.demo.Models.ResponseBody
-import com.filepars.demo.Models.User
-import com.filepars.demo.Services.CsvService
+import com.filepars.csvpars.Models.ResponseBody
+import com.filepars.csvpars.Models.User
+import com.filepars.csvpars.Services.CsvService
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestMapping

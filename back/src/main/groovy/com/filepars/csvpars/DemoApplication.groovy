@@ -1,4 +1,4 @@
-package com.filepars.demo
+package com.filepars.csvpars
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication

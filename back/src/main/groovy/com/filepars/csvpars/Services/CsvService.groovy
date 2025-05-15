@@ -1,6 +1,6 @@
-package com.filepars.demo.Services
+package com.filepars.csvpars.Services
 
-import com.filepars.demo.Models.User
+import com.filepars.csvpars.Models.User
 import com.opencsv.bean.CsvToBean
 import com.opencsv.bean.CsvToBeanBuilder
 import com.opencsv.bean.HeaderColumnNameMappingStrategy

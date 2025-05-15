@@ -1,6 +1,6 @@
-package com.filepars.demo.Models
+package com.filepars.csvpars.Models
 
-import lombok.AllArgsConstructor
+
 import lombok.Data
 
 @Data

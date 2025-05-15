@@ -1,8 +1,6 @@
-package com.filepars.demo.Models
+package com.filepars.csvpars.Models
 
 import com.opencsv.bean.CsvBindByName
-import lombok.Data
-
 
 class User {
 
