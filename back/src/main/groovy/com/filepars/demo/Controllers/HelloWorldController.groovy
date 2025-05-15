@@ -1,4 +1,4 @@
-package com.filepars.demo.controllers
+package com.filepars.demo.Controllers
 
 import com.filepars.demo.Models.ResponseBody
 import org.springframework.http.ResponseEntity
